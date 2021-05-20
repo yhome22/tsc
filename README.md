@@ -1,2 +1,2 @@
-# lec
+# TSC
 Leek Ecological Chain
